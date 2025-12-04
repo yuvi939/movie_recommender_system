@@ -1,6 +1,0 @@
-venv
-*.pkl
-*.npy
-*.npz
-*.h5
-*.csv
