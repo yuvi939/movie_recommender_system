@@ -43,7 +43,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/movie-recommendation-system.git
+git clone https://github.com/yuvi939/movie_recommender_system.git
 
 
 Navigate to the project directory:
